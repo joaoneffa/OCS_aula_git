@@ -1,0 +1,17 @@
+--- 
+jogadores: 
+  - Prates
+  - Kaio
+  - Rickard
+  - Gabriel
+  - Freitas
+  - Daniel
+  - Lelis
+Posiçoes: 
+  - Goleiro
+  - Zagueiro
+  - Atacante
+  - Meio Campo
+  - Lateral Direito 
+  - Lateral Esquerdo 
+  - Centroavante 
